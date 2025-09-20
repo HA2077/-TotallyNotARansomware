@@ -1,5 +1,4 @@
-# HARANSOMWARE
-⚠️ CRITICAL WARNING - EDUCATIONAL PURPOSE ONLY ⚠️
+# HA-RANSOMWARE
 <div align="center">
 <h3>🚨 THIS PROJECT IS FOR EDUCATIONAL AND RESEARCH PURPOSES ONLY 🚨</h3>
 </div>
@@ -97,14 +96,18 @@ Any activity that violates local, state, or federal laws
 ---
 
 📄 License
+
 This project is licensed under the MIT License with educational restrictions - see the LICENSE file for details.
 Additional Educational Use Restriction: This software is provided for educational and research purposes only. Any use of this software for malicious purposes is strictly prohibited and may violate local, state, and federal laws.
 
 ---
 
 🔗 Contact & Support
-Author: HA2077
+
+Author: Hassan Ahmed
+
 Repository: https://github.com/HA2077/HA-RANSOMWARE
+
 Issues: Please report bugs or educational improvements via GitHub Issues
 
 ---
