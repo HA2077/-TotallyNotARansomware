@@ -1,4 +1,4 @@
-# HA-RANSOMWARE
+# -TotallyNotARansomware
 <div align="center">
 <h3>🚨 THIS PROJECT IS FOR EDUCATIONAL AND RESEARCH PURPOSES ONLY 🚨</h3>
 </div>
