@@ -20,28 +20,37 @@ This tool is intended to help understand ransomware mechanics for DEFENSIVE PURP
 This project demonstrates:
 
 Cryptographic concepts in cybersecurity
+
 File system operations and security implications
-Network communication in malware research
+
 Defensive programming techniques
+
 Cybersecurity awareness and prevention strategies
 
 ---
 
 📋 How It Works
 Architecture Overview
+
 The simulation consists of two main components:
 1. Encryption Module (notransomware.py)
 
 Simulates file encryption using cryptographic libraries
+
 Demonstrates how ransomware targets specific file types
+
 Shows encryption key generation and management
+
 Educational implementation of file system traversal
 
 2. Decryption Module (Decrypt.py)
 
 Demonstrates the decryption process
+
 Shows proper key management for recovery
+
 Educational example of cryptographic operations
+
 Illustrates file restoration procedures
 
 🔧 Technical Implementation
@@ -61,21 +70,29 @@ This simulation ONLY affects files in the same directory as the executable - it 
 What This Teaches About Ransomware Defense:
 
 File Backup Strategies: Understanding why regular, isolated backups are critical
+
 Network Segmentation: How proper network design limits ransomware spread
+
 Endpoint Detection: Recognizing suspicious file system activities
+
 Incident Response: Procedures for handling ransomware incidents
+
 User Education: Training users to recognize and avoid ransomware vectors
 
 Defensive Measures Demonstrated:
 
 File system monitoring techniques
+
 Encryption detection methods
+
 Recovery procedures and best practices
+
 Security awareness indicators
 
 ---
 
 ⚖️ Legal and Ethical Guidelines
+
 ✅ Acceptable Use:
 
 Educational research and learning
@@ -106,7 +123,7 @@ Additional Educational Use Restriction: This software is provided for educationa
 
 Author: Hassan Ahmed
 
-Repository: https://github.com/HA2077/HA-RANSOMWARE
+Repository: https://github.com/HA2077/-TotallyNotARansomware
 
 Issues: Please report bugs or educational improvements via GitHub Issues
 
