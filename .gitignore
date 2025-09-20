@@ -1,0 +1,8 @@
+build/
+logs/
+data/
+*.key
+*.crt
+*.pem
+*.env
+*.log
