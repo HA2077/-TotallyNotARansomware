@@ -1,6 +1,8 @@
 build/
 logs/
 data/
+dist/
+__pycache__/
 *.key
 *.crt
 *.pem
